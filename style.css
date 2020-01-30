@@ -7,7 +7,7 @@ body {
     font-size: 20px;
   }
   
-  h1 {
+  h1,h2 {
     font-family: 'Montserrat Alternates', sans-serif;
     color: rgb(46, 46, 46);
     text-align: center;
